@@ -1,0 +1,9 @@
+{
+    "name": "ArchLinuxOnCodespaces",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "settings": {},
+    "extensions": [],
+    "postCreateCommand": "echo 'Environment ready!'"
+  }
